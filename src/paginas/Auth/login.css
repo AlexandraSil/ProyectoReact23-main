@@ -1,0 +1,48 @@
+
+.login-container {
+    background-color: #FFCEE9; /* Cambia el color a tu preferencia */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+.login-logo {
+    text-align: center; /* Centra el texto horizontalmente */
+  }
+  
+.login-logo b {
+    color:black; /* Cambia el color a tu preferencia, por ejemplo, rojo (#FF0000) */
+    font-size: 40px; /* Cambia el tamaño de fuente a tu preferencia */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card {
+    margin: 10px;
+    border-radius: 30px; /* Ajusta el valor según la curvatura deseada */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.384); /* Configura la sombra según tus preferencias */
+  }
+
+.card-body {
+    border-radius: 100px; /* Ajusta el valor según el nivel de curvatura que desees */
+    /* Otros estilos CSS para la sección card-body */
+  }
+
+.ingresar {
+   background-color:#FF74C1 ; /* Color de fondo para "Ingresar" */
+    color: #fff; /* Color de texto para "Ingresar" */
+    border: none; /* Elimina el borde del botón */
+    padding: 10px 20px; /* Ajusta el relleno según tus preferencias */
+    margin: 5px; /* Ajusta el margen según tus preferencias */
+  }
+  
+.crear {
+    background-color: #FF74C1 ; /* Color de fondo para "Ingresar" */
+    color: #fff; /* Color de texto para "Ingresar" */
+    border: none; /* Elimina el borde del botón */
+
+    padding: 10px 20px; /* Ajusta el relleno según tus preferencias */
+    margin: 5px; /* Ajusta el margen según tus preferencias */
+  }
+
